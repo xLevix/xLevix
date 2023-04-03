@@ -14,8 +14,5 @@
   
 ### ✨&nbsp; About Me
 
-I am a 3rd year student (6th semester). I am looking for a job as a backend developer or full-stack developer. I am characterized by ambition and fast learning.
-I have created many individual projects for self-development (available on GitHub) such as: Cinema project (Spring+React), Chat and File Explorer written reactively
-with RxJava using JavaFx as GUI.
-
+I am a 3rd year student (6th semester). I am looking for a job as a backend developer or full-stack developer.
 
