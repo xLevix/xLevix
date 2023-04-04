@@ -10,7 +10,7 @@
 
 📊 &nbsp;**This week I spent my time on**
 
-![Wwakatime stats](<figure><embed src="https://wakatime.com/share/@xLevix/6491d058-07c8-463c-84e0-4378689ef161.svg"></embed></figure>)
+![Wwakatime stats](<img src="https://wakatime.com/share/@xLevix/6491d058-07c8-463c-84e0-4378689ef161.svg">)
   
 ### ✨&nbsp; About Me
 
