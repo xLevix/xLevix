@@ -10,7 +10,7 @@
 
 📊 &nbsp;**This week I spent my time on**
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=xLevix&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+![Wwakatime stats](<figure><embed src="https://wakatime.com/share/@xLevix/6491d058-07c8-463c-84e0-4378689ef161.svg"></embed></figure>)
   
 ### ✨&nbsp; About Me
 
