@@ -15,5 +15,5 @@ Wakatime stats
   
 ### ✨&nbsp; About Me
 
-I am a 3rd year student (6th semester). I am looking for a job as a backend developer or full-stack developer.
+I am a 3rd year student (6th semester).
 
